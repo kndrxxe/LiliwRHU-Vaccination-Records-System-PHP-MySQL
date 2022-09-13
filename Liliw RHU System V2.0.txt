@@ -1,0 +1,28 @@
+LILIW RHU VACCINATION RECORDS SYSTEM (RECORDS MANAGEMENT SYSTEM) V2.0
+Developed by: ASTRO Systems Co.
+
+Leader: Brosas, Kendrix B.
+Members:
+- Angeles, James Roland L.
+- Zambrano, Adrian P.
+
+V2.0 ADDITIONAL AND UPDATED FILES:
+1. adminaddformsoption.php
+2. adminaddoption.php
+3. adminaddschedule.php
+4. adminaddusers.php
+5. adminaddvaccineschedule.php
+6. admincreateuser.php
+7. admindeleteformsoption.php
+8. admindropschedule.php 
+9. admindropusers.php
+10. admineditschedule.php
+11. admineditusers.php
+12. adminlogin.php
+13. adminlogout.php
+14. adminmanageforms.php
+15. adminmanageschedule.php
+16. adminmanageusers.php
+17. adminupdateusers.php 
+18. adminupdatevaccineschedule.php
+19. viewall.php
